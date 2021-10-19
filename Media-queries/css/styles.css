@@ -1,0 +1,23 @@
+@media screen and (max-width: 1920px) {
+    body{
+        background-color: rgb(255, 127, 223);
+    }
+}
+@media screen and (max-width: 1280px) {
+    body{
+        background-color: rgb(60, 214, 155);
+    }
+}
+@media screen and (max-width: 800px) {
+    body{
+        background-color: rgb(255, 172, 127);
+    }
+}
+@media screen and (max-width: 480px) {
+    body{
+        background-color: rgb(127, 136, 255);
+    }
+}
+footer {
+    background: #212529;
+  }
